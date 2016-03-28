@@ -1,0 +1,225 @@
+.nav1 {
+  font-size: 14px;
+  letter-spacing: .5px;
+  margin-right: 50px;
+  text-transform: uppercase;
+  text-align: right;
+}
+.header a{
+  color: white;
+  font-size: 20px;
+  font-style: normal;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.header a:hover{
+  color: gray;
+}
+header h2{
+  text-align: center;
+  margin-top: 70px;
+  font-size: 45px;
+  line-height: 44px;
+  color: white;
+}
+
+
+
+.header img {
+    margin-left: 510px;
+    margin-top: 100px;
+    width: 220px;
+    height: 250px
+    
+}
+
+.btn-alt {
+     border: 1px solid #fff;
+     padding: 10px 30px;
+}
+.btn-alt:hover {
+  background: #fff;
+  color: #648880;
+}
+
+.btn {
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 400;
+  letter-spacing: .5px;
+  margin-left: 555px;
+  text-transform: uppercase;
+
+}
+footer {
+    margin-top: 25px;
+}
+.header {
+    background-image: url('../images/01050doubtfullsoundnewzee8.jpg');
+    width: 1250px;
+    height: 700px;
+}
+
+/*<-- About-->*/
+
+.nav2 {
+  font-size: 14px;
+  letter-spacing: .5px;
+  margin-right: 50px;
+  text-transform: uppercase;
+  text-align: right;
+}
+.header1 {
+     background-image: url('../images/back.jpg');
+    width: 1248px;
+    height: 250px;
+}
+.header1 a,
+.footer1 a {
+  color: white;
+  font-size: 20px;
+  font-style: normal;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.header1 a:hover,
+.footer1 a:hover {
+  color: gray;
+}
+
+h1 {
+    text-align: center;
+    color: #b6b5b3;
+    font-size: 70px;   
+}
+.case1 h2{
+ text-align: center;
+  margin-top: 0;
+  margin-left: 330px;
+  margin-right: 300px;
+  font-size: 45px;
+  line-height: 44px;
+  color: black;
+}
+.case1 img {
+   margin-left: 530px;
+   margin-top: 20px;
+   width: 220px;
+   height: 250px
+}
+.case1 p {
+    font-size: 40px;
+    text-align: center;
+    margin-left: 50px;
+    
+}
+.case1 {
+    background-color: gainsboro;
+}
+.one {
+    background-color: #45594b;
+}
+.one a {
+    color:white;
+    font-size: 25px;
+    font-style: normal;
+    margin-left: 590px;
+}
+.two{
+    background-color: #45594b;
+}
+.two a{
+    color:white;
+    font-size: 25px;
+    font-style: normal;
+    margin-left: 575px;
+}
+.case2 p{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 140px;
+}
+.case2 img{
+    margin-top: 10px;
+    margin-left: 0;
+}
+.case3 p{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 200px;
+}
+.case3 img{
+    margin-top: 10px;
+    margin-left: 0;
+    width: 400px;
+    height: 220px;
+}
+.case4 p{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+ display: inline-block;
+  vertical-align: top;
+  margin-top: 200px;
+}
+.case4 img{
+    margin-top: 10px;
+    margin-left: 0;
+}
+.case5 p{
+    text-align: center;
+  font-size: 34px;
+  font-weight: bold;
+ display: inline-block;
+  vertical-align: top;
+}
+.case6 h2{
+    color: black;
+    text-align: center;
+}
+.case6 p{
+    font-size: 30px;
+    background-color: #4a626f;
+    color: white;
+    text-align: center;
+}
+.case6 img{
+    width: 308px;
+    height: 400px;
+}
+/*<!--contact-->*/
+.footer1 img{
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 4px;
+    display: inline-flex;
+    
+}
+.Contact{
+    text-align: center;
+    margin-left: 520px;
+    margin-right: 520px;
+}
+.footer1{
+     background-image: url('../images/back.jpg');
+    width: 1248px;
+    height: 260px;
+}
+.Contact h4 {
+    color: white;
+}
+.Contact p{
+    color: white;
+}
+
